@@ -1,3 +1,3 @@
-Hi There! 
-     Shivaraj Loni,
-     An Computer Science Engineering Student 	 
+### Hi There! :wave: 
+- An Computer Science Engineering Student :man_student: :computer:
+- full-stack developer
